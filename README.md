@@ -1,2 +1,2 @@
 # usama-demo
-this demo account
+this demo account for practice
